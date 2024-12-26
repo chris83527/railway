@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="214.20000000000005mm" height="30.200000000000003mm" viewBox="0 0 214.20000000000005 30.200000000000003" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Body" transform="translate(104.600000,26.670000) scale(1,-1)">
+<path id="Body_f0000"  d="M -102.5 -1.4299999999999997 L -102.5 24.57 L -102.5 24.57 L -102.5 -1.4299999999999997 L -102.5 -1.4299999999999997 Z " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Body_f0001"  d="M -102.5 24.57 L 107.5 24.57 L 107.5 24.57 L -102.5 24.57 L -102.5 24.57 Z " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Body_f0002"  d="M 107.5 -1.4299999999999997 L -102.5 -1.4299999999999997 L -102.5 -1.4299999999999997 L 107.5 -1.4299999999999997 L 107.5 -1.4299999999999997 Z " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6;fill-opacity:1.0;fill-rule: evenodd"/>
+<circle cx="24.35" cy="11.569999999999999" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6"/>
+<circle cx="24.35" cy="11.569999999999999" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6"/>
+<path id="Body_f0005"  d="M 107.5 24.57 L 107.5 24.57 L 107.5 13.57 L 107.50000000000004 13.57 L 107.5 24.57 Z " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Body_f0006"  d="M 107.5 9.57 L 107.5 9.57 L 107.5 -1.4299999999999997 L 107.5 -1.4299999999999997 L 107.49999999999996 9.57 Z " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6;fill-opacity:1.0;fill-rule: evenodd"/>
+<path id="Body_f0007"  d="M 107.5 13.57 L 107.50000000000004 13.57 A 2 2 0 0 1 107.5 9.57L 107.5 9.57 A 2 2 0 0 0 107.5 13.57Z " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6;fill-opacity:1.0;fill-rule: evenodd"/>
+<circle cx="24.35" cy="11.569999999999999" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6"/>
+<circle cx="40.1" cy="11.569999999999999" r="7.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6"/>
+<circle cx="93.4" cy="11.569999999999999" r="7.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6"/>
+<circle cx="-95.14999999999999" cy="11.57" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6"/>
+<circle cx="-76.39999999999999" cy="11.57" r="7.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6"/>
+<circle cx="-58.849999999999994" cy="11.57" r="7.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6"/>
+<circle cx="-41.199999999999996" cy="11.57" r="7.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6"/>
+<circle cx="-23.549999999999997" cy="11.57" r="7.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6"/>
+<circle cx="-7.649999999999995" cy="11.57" r="3.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6"/>
+<circle cx="57.800000000000004" cy="11.57" r="7.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6"/>
+<circle cx="75.5" cy="11.57" r="7.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#cccce6"/>
+<title>b'Body'</title>
+</g>
+</svg>

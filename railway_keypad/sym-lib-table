@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name railway-rescue)(type Legacy)(uri ${KIPRJMOD}/railway-rescue.lib)(options "")(descr ""))
+  (lib (name railway_keypad-rescue)(type Legacy)(uri ${KIPRJMOD}/railway_keypad-rescue.lib)(options "")(descr ""))
+)

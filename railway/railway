@@ -1,0 +1,59 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>KiCad BOM Example 5</title>
+    </head>
+    <body>
+    <h1>/net/home/chris/railway/railway/railway.sch</h1>
+    <p>So 22 Mär 2020 12:40:45 CET</p>
+    <p>Eeschema 5.1.5-52549c5~84~ubuntu18.04.1</p>
+    <p><b>Component Count:</b>68</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Footprint</th><th>Description</th><th>Vendor</th></tr>
+    <tr><td>A1</td><td>1</td><td>Arduino_UNO_R3</td><td>railway-rescue:Arduino_UNO_R3-MCU_Module</td><td>Module:Arduino_UNO_R3</td><td></td><td></td></tr>
+    <tr><td>A2</td><td>1</td><td>Arduino_Nano_v3.x</td><td>railway-rescue:Arduino_Nano_v3.x-MCU_Module</td><td>Module:Arduino_Nano</td><td></td><td></td></tr>
+    <tr><td>C1, C2, C3, C4, C5, C6</td><td>6</td><td>100nF</td><td>Device:C</td><td>Capacitor_THT:C_Rect_L4.6mm_W2.0mm_P2.50mm_MKS02_FKP02</td><td>Unpolarized capacitor</td><td></td></tr>
+    <tr><td>D1</td><td>1</td><td>MBR735</td><td>Diode:MBR735</td><td>Package_TO_SOT_THT:TO-220-2_Vertical</td><td>35V 7.5A Schottky Barrier Rectifier Diode, TO-220</td><td></td></tr>
+    <tr><td>F1</td><td>1</td><td>Polyfuse</td><td>Device:Polyfuse</td><td>Fuse:Fuse_BelFuse_0ZRE0025FF_L9.6mm_W3.8mm</td><td>Resettable fuse, polymeric positive temperature coefficient</td><td></td></tr>
+    <tr><td>H1, H2, H3, H4, H6</td><td>5</td><td>MountingHole_Pad</td><td>Mechanical:MountingHole_Pad</td><td>MountingHole:MountingHole_3.2mm_M3_Pad</td><td>Mounting Hole with connection</td><td></td></tr>
+    <tr><td>J1</td><td>1</td><td>5V_OUT_1-8</td><td>railway-rescue:HEADER_9-w_connectors</td><td>mini-din:minidin_9_pcb_mount</td><td></td><td></td></tr>
+    <tr><td>J2</td><td>1</td><td>RPI_SERIAL</td><td>railway-rescue:HEADER_4-w_connectors</td><td>Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical</td><td></td><td></td></tr>
+    <tr><td>J3</td><td>1</td><td>5V_OUT_9-16</td><td>railway-rescue:HEADER_9-w_connectors</td><td>mini-din:minidin_9_pcb_mount</td><td></td><td></td></tr>
+    <tr><td>J4</td><td>1</td><td>DCC_PROG</td><td>w_connectors:HEADER_2</td><td>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</td><td></td><td></td></tr>
+    <tr><td>J5</td><td>1</td><td>KEYPAD</td><td>railway-rescue:HEADER_4-w_connectors</td><td>Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical</td><td></td><td></td></tr>
+    <tr><td>J6</td><td>1</td><td>12V_OUT_33-40</td><td>railway-rescue:HEADER_9-w_connectors</td><td>mini-din:minidin_9_pcb_mount</td><td></td><td></td></tr>
+    <tr><td>J7</td><td>1</td><td>12V_OUT_41-48</td><td>railway-rescue:HEADER_9-w_connectors</td><td>mini-din:minidin_9_pcb_mount</td><td></td><td></td></tr>
+    <tr><td>J8</td><td>1</td><td>SENSOR_1-8</td><td>railway-rescue:HEADER_9-w_connectors</td><td>mini-din:minidin_9_pcb_mount</td><td></td><td></td></tr>
+    <tr><td>J9</td><td>1</td><td>SENSOR_9-16</td><td>railway-rescue:HEADER_9-w_connectors</td><td>mini-din:minidin_9_pcb_mount</td><td></td><td></td></tr>
+    <tr><td>J10</td><td>1</td><td>SENSOR_17-24</td><td>railway-rescue:HEADER_9-w_connectors</td><td>mini-din:minidin_9_pcb_mount</td><td></td><td></td></tr>
+    <tr><td>J11</td><td>1</td><td>SENSOR_25-32</td><td>railway-rescue:HEADER_9-w_connectors</td><td>mini-din:minidin_9_pcb_mount</td><td></td><td></td></tr>
+    <tr><td>J12</td><td>1</td><td>12V_OUT_1-8</td><td>railway-rescue:HEADER_9-w_connectors</td><td>mini-din:minidin_9_pcb_mount</td><td></td><td></td></tr>
+    <tr><td>J13</td><td>1</td><td>12V_OUT_9-16</td><td>railway-rescue:HEADER_9-w_connectors</td><td>mini-din:minidin_9_pcb_mount</td><td></td><td></td></tr>
+    <tr><td>J14</td><td>1</td><td>12V_OUT_17-24</td><td>railway-rescue:HEADER_9-w_connectors</td><td>mini-din:minidin_9_pcb_mount</td><td></td><td></td></tr>
+    <tr><td>J15</td><td>1</td><td>12V_OUT_25-32</td><td>railway-rescue:HEADER_9-w_connectors</td><td>mini-din:minidin_9_pcb_mount</td><td></td><td></td></tr>
+    <tr><td>J16</td><td>1</td><td>DCC_PRG</td><td>Connector:Barrel_Jack</td><td>Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002</td><td>DC Barrel Jack</td><td></td></tr>
+    <tr><td>J17</td><td>1</td><td>DCC_MAIN</td><td>Connector:Barrel_Jack</td><td>Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002</td><td>DC Barrel Jack</td><td></td></tr>
+    <tr><td>J18</td><td>1</td><td>DCC_PWR_IN</td><td>Connector:Barrel_Jack</td><td>Connector_BarrelJack:BarrelJack_Wuerth_6941xx301002</td><td>DC Barrel Jack</td><td></td></tr>
+    <tr><td>J19</td><td>1</td><td>RPI_PWR</td><td>railway-rescue:HEADER_4-w_connectors</td><td>Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical</td><td></td><td></td></tr>
+    <tr><td>J20</td><td>1</td><td>DCC_MAIN</td><td>w_connectors:HEADER_2</td><td>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</td><td></td><td></td></tr>
+    <tr><td>J21</td><td>1</td><td>PWR_IN</td><td>w_connectors:HEADER_2</td><td>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</td><td></td><td></td></tr>
+    <tr><td>J22</td><td>1</td><td>8P8C_Shielded</td><td>Connector:8P8C_Shielded</td><td>Connector_RJ:RJ45_Amphenol_RJHSE5380</td><td>RJ connector, 8P8C (8 positions 8 connected), RJ31/RJ32/RJ33/RJ34/RJ35/RJ41/RJ45/RJ49/RJ61, Shielded</td><td></td></tr>
+    <tr><td>J23</td><td>1</td><td>TRACK_PWR_LED</td><td>w_connectors:HEADER_2</td><td>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</td><td></td><td></td></tr>
+    <tr><td>J24</td><td>1</td><td>PWR_LED</td><td>w_connectors:HEADER_2</td><td>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</td><td></td><td></td></tr>
+    <tr><td>R1</td><td>1</td><td>620 1/4W</td><td>Device:R</td><td>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</td><td>Resistor</td><td></td></tr>
+    <tr><td>R2</td><td>1</td><td>160 1/8W</td><td>Device:R</td><td>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</td><td>Resistor</td><td></td></tr>
+    <tr><td>R3, R4, R7, R8, R9, R10, R11, R12</td><td>8</td><td>10k</td><td>Device:R</td><td>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal</td><td>Resistor</td><td></td></tr>
+    <tr><td>U1, U2, U3, U4, U17, U18</td><td>6</td><td>MCP23017-E_SP</td><td>railway-rescue:MCP23017-E_SP-dk_Interface-I-O-Expanders</td><td>digikey-footprints:DIP-28_W7.62mm</td><td></td><td></td></tr>
+    <tr><td>U5, U6, U7, U8, U13, U14, U15, U16</td><td>8</td><td>ULN2803A</td><td>Transistor_Array:ULN2803A</td><td>Package_DIP:DIP-18_W7.62mm_Socket</td><td>Darlington Transistor Arrays, SOIC18/DIP18</td><td></td></tr>
+    <tr><td>U9</td><td>1</td><td>Adafruit_4_channel_level_shifter</td><td>railway-rescue:Adafruit_4_channel_level_shifter-Level_Shifter</td><td>Package_DIP:DIP-12_W10.16mm</td><td></td><td></td></tr>
+    <tr><td>U10</td><td>1</td><td>5v</td><td>buck_converter:LM2596_buck_converter</td><td>buck_converters:QLOUINO_LM2596_DC_DC_Stepdown_Module</td><td></td><td></td></tr>
+    <tr><td>U11</td><td>1</td><td>12v</td><td>buck_converter:LM2596_buck_converter</td><td>buck_converters:QLOUINO_LM2596_DC_DC_Stepdown_Module</td><td></td><td></td></tr>
+    <tr><td>U12</td><td>1</td><td>6v</td><td>buck_converter:LM2596_buck_converter</td><td>buck_converters:QLOUINO_LM2596_DC_DC_Stepdown_Module</td><td></td><td></td></tr>
+    <tr><td>U19</td><td>1</td><td>PCA9600D</td><td>Interface:PCA9600D</td><td>Package_SO:SO-8_3.9x4.9mm_P1.27mm</td><td>Dual bidirectional bus buffer, SO-8</td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    

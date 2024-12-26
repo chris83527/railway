@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PB86-A1
+D Model PB86-A1-R-R SPDT momentary switch
+K momentary tactile switch SPDT
+F http://www.honyone.com/en/products/show_225.html
+$ENDCMP
+#
+$CMP PB86-A2
+D Model PB86-A2-R-R SPDT momentary switch
+F http://www.honyone.com/en/products/show_225.html
+$ENDCMP
+#
+#End Doc Library
